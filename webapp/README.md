@@ -28,3 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Added Package using
 `npm install --save bootstrap@4`
+
+Skip Test 
+`--skip-tests
